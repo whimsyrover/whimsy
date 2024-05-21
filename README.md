@@ -1,72 +1,111 @@
-<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <defs>
-        <style type="text/css">
-            html, body{
-                height: 100%;
-                font-weight: 800;
-            }
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SSoelvsten&theme=transparent" />
+</div>
 
-            svg {
-                font-family: Helvetica, sans-serif;
-            }
+<div align="center">
+  <img style="display: inline-block;"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ssoelvsten&theme=transparent" />
+  <img style="display: inline-block;"" 
+       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ssoelvsten&theme=transparent" />
+</div>
+## My favorite tools and technologies ⚙️
 
-            svg {
-                display: block;
-                font: 10.5em 'Helvetica';
-                width: 960px;
-                height: 300px;
-                margin: 0 auto;
-            }
+> Tools and technologies that I have worked with and am interested in
 
-            .text-copy {
-                fill: none;
-                stroke: white;
-                stroke-dasharray: 6% 29%;
-                stroke-width: 5px;
-                stroke-dashoffset: 0%;
-                animation: stroke-offset 5.5s infinite linear;
-            }
+<table>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="mysql" />
+            <br>Java
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+            <br>Javascript
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="css" />
+            <br>React Js
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
+            <br>JQuery
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"
+                width="48" height="48" alt="Git" />
+            <br>Git
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"
+                width="48" height="48" alt="GitHub" />
+            <br>Github
+        </td>
+        <td align="center" width="96">
+            <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png"
+                width="48" height="48" alt="GitLab" />
+            <br>GitLab
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+            <br>Bootstrap
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
+            <br>Tailwind
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=figma" width="48" height="48" alt="tailwind" />
+            <br>Figma
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
+            <br>MySQL
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="jquery" />
+            <br>Linux
+        </td>
+        <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="jquery" />
+            <br>Bash
+        </td>
+        <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
+            <br>Docker
+        </td>
+    </tr>
+</table>
 
-            .text-copy:nth-child(1){
-                stroke: #264653;
-                animation-delay: -1;
-            }
 
-            .text-copy:nth-child(2){
-                stroke: #2a9d8f;
-                animation-delay: -2s;
-            }
+<!-- ## Github stats 📊
 
-            .text-copy:nth-child(3){
-                stroke: #e9c46a;
-                animation-delay: -3s;
-            }
+<details>
+    <summary>GitHub Profile Stats 💻</summary>
+    <br />
+    <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=andiahmadysx&theme=tokyonight&show_icons=true&count_private=true&include_all_commits=true" height="150" alt="stats graph" border="none" />
+    
+</details>
 
-            .text-copy:nth-child(4){
-                stroke: #f4a261;
-                animation-delay: -4s;
-            }
+<details>
+    <summary>Activity Graph 📈</summary>
+    <br />
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=andiahmadysx&custom_title=Andi%20Ahmad%20Yusup%27s%20GitHub%20Activity%20Graph&bg_color=1a1a26&color=71a4fd&line=626069&point=9473bf&area_color=000000&title_color=bf90f3&area=true" />
+</details>
 
-            .text-copy:nth-child(5){
-                stroke: #e76f51;
-                animation-delay: -5s;
-            }
-
-            @keyframes stroke-offset{
-                100% {stroke-dashoffset: -35%;}
-            }
-        </style>
-    </defs>
-
-    <symbol id="s-text">
-        <text text-anchor="middle" x="50%" y="80%">HACKERMAN</text>
-    </symbol>
-
-    <g class = "g-ants">
-        <use xlink:href="#s-text" class="text-copy"></use>
-        <use xlink:href="#s-text" class="text-copy"></use>
-        <use xlink:href="#s-text" class="text-copy"></use>
-        <use xlink:href="#s-text" class="text-copy"></use>
-        <use xlink:href="#s-text" class="text-copy"></use>
-    </g>
-</svg>
+<details> -->
+<!--     <summary>Profile Views 👁️</summary> -->
+ 
+   
+<!-- 
+</details> -->
+ <img src="https://komarev.com/ghpvc/?username=andiahmadysx&label=PROFILE+VIEWS&style=flat&color=blue">

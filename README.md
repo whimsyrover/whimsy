@@ -53,10 +53,13 @@ Contact me <b>email</b>: trustme000777@gmail.com
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
             <br>HTML
-        </td>
-       
+        </td>       
     </tr>
     <tr>
+         <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+            <br>CSS
+        </td>    
         <td align="center" width="96">
             <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
             <br>Bootstrap
@@ -84,10 +87,6 @@ Contact me <b>email</b>: trustme000777@gmail.com
         <td align="center" width="96">
             <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
             <br>Docker
-        </td>
-         <td align="center" width="96">
-            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-            <br>CSS
         </td>
     </tr>
 </table>

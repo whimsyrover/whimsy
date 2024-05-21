@@ -5,17 +5,7 @@
 
 ## Bio - Hi, Coders! 👋
 
-Glaucia Lemos is a Developer Advocate in JavaScript and TypeScript and A.I at Microsoft and a Software Engineer with over 10 years of development experience in JavaScript, TypeScript, and Node.js (BackEnd), as well as in .NET C#. 
-
-She has both national and international experience working with small and large companies. Glaucia enjoys making contributions to Open Source projects projects in **[GitHub](https://github.com/glaucia86)**. She has been a Member and Contributor to the Node.js Foundation and the React Community, making contributions to the translations of the **[Nodejs.org](https://nodejs.org/en)** and **[Reactjs.org](https://react.dev/)** websites into Portuguese. She also voluntered and served as a Board Member for the **[WoMakersCode](https://womakerscode.org/)**. 
-She is also a **[Prisma Ambassador](https://www.prisma.io/ambassador)**. 
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
-Currently, Glaucia lives in Rio de Janeiro, Brazil. And her greatest passion is sharing knowledge with everyone!
-
-In her free time, Glaucia loves listening to good music, watching movies or TV series, and exploring new places. She travels to go snorkeling, meet new people, and learn new languages. She enjoys live coding sessions on her YouTube channel and loves sharing knowledge through technical articles, videos, and presentations. Glaucia's primary focus and goal have been the development of applications in JavaScript, Node.js, and TypeScript integrated with Cloud services and AI.
-
+dsssssssssssssssssssssss
 ## 💻 Technologies & Tools
 
 <p align="center">

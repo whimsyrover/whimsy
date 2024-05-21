@@ -1,7 +1,7 @@
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=glaucia86%2Fgithub-visitors-badge&countColor=%23263759)](https://visitorbadge.io/status?path=glaucia86%2Fgithub-visitors-badge)
 ![GitHub followers](https://img.shields.io/github/followers/glaucia86?style=social)
 
-[![Banner-Twitch-Glaucia-Lemos.png](https://i.postimg.cc/L8ZjLxZm/Banner-Twitch-Glaucia-Lemos.png)](https://postimg.cc/ZW49hFcQ)
+
 
 ##                          👏 WELCOME TO MY GITHUB 👏
 

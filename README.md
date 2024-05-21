@@ -5,7 +5,7 @@
 
 ##                          👏 WELCOME TO MY GITHUB 👏
 
-dsssssssssssssssssssssss
+Taking 8 years of experience in web development, i excel at various frontend and backend stacks including reactjs, vuejs, svelte, node, golang, php and laravel.
 ## 💻 Technologies & Tools
 
 <p align="center">

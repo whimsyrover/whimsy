@@ -5,10 +5,10 @@
 
 ### <div align="center"> 👉 charming - Senior Software Developer 👈</div>  
 
-Hi, I'm trustme000777, a seasoned full stack developer with 8 years of hands-on experience crafting innovative software solutions. My expertise lies in building captivating user experiences with React, Next.js, and Vue.js, svelte on the front-end, and architecting robust, scalable systems with Node.js, Python (Django, Flask), and Go on the back-end. Beyond technical skills, I thrive in collaborative environments, fostering open communication and teamwork to deliver exceptional results. 
+Hi, I'm james henry, a seasoned full stack developer with 8 years of hands-on experience crafting innovative software solutions. My expertise lies in building captivating user experiences with React, Next.js, and Vue.js, svelte on the front-end, and architecting robust, scalable systems with Node.js, Python (Django, Flask), and Go on the back-end. Beyond technical skills, I thrive in collaborative environments, fostering open communication and teamwork to deliver exceptional results. 
 
 <br/>  
-Contact me <b>email</b>: minionhub.dev@gmail.com 
+Contact me <b>email</b>: trustme000777@gmail.com 
 <br/>
 <br/>
 <table><tr><td valign="top" width="50%">

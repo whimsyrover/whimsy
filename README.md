@@ -1,4 +1,17 @@
+<div align="center">
+  
+  <h1><img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30">WELCOME TO MY GITHUB<img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"></h1>
+</div>
 
+### <div align="center"> 👋 trustme000777 - Senior Software Developer 👋</div>  
+
+Hi, I'm trustme000777, a seasoned full stack developer with 8 years of hands-on experience crafting innovative software solutions. My expertise lies in building captivating user experiences with React, Next.js, and Vue.js, svelte on the front-end, and architecting robust, scalable systems with Node.js, Python (Django, Flask), and Go on the back-end. Beyond technical skills, I thrive in collaborative environments, fostering open communication and teamwork to deliver exceptional results. 
+
+<br/>  
+Contact me <b>email</b>: minionhub.dev@gmail.com 
+<br/>
+<br/>
+<table><tr><td valign="top" width="50%">
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trustme000777&theme=transparent" />
 </div>

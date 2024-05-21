@@ -47,33 +47,3 @@ In her free time, Glaucia loves listening to good music, watching movies or TV s
 
 ![glaucia86's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glaucia86&theme=radical&show_icons=true&hide_border=true&layout=compact)
 
-## 📺 Latest YouTube Videos
-<!-- YOUTUBE:START -->
-- [A Importância do networking no mundo do Open Source](https://www.youtube.com/watch?v=Es_u_q9ME7g)
-- [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph](https://www.youtube.com/watch?v=adAX7lTk8cM)
-- [Workshop: Usando GitHub Copilot para construir um app Node.js com Azure Cosmos DB e App Service](https://www.youtube.com/watch?v=acGFVXlHB9Q)
-- [Workshop: Usando GitHub Copilot para construir um app Node.js com Azure Cosmos DB e App Service](https://www.youtube.com/watch?v=qVlao48ke_o)
-- [Workshop: Construindo um app LOB com OpenAI, Azure CS e Microsoft Graph Ep3](https://www.youtube.com/watch?v=EBVD__WJ60M)
-<!-- YOUTUBE:END -->
-
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 03&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-03-2n68)
-- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 02&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-02-4ngm)
-- [A Practical Guide for Beginners: Azure OpenAI with JavaScript and TypeScript &lpar;Part 01&rpar;](https://dev.to/azure/a-practical-guide-for-beginners-azure-openai-with-javascript-and-typescript-part-01-5ajh)
-- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 3&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-3-52o4)
-- [Guia Prático para Iniciantes: Azure OpenAI com JavaScript e TypeScript &lpar;Parte 2&rpar;](https://dev.to/azure/guia-pratico-para-iniciantes-azure-openai-com-javascript-e-typescript-parte-2-1ij1)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Let's Keep in Touch and Follow me 
-
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/glaucia_lemos86)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/glaucialemos/)
-[![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/glaucia.lemos.1029)
-
-
-## 🔴 I do some Live Codings! So follow me also on...
-
-[![Youtube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/user/l32759)
-[![Twitch](https://img.shields.io/badge/twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/glaucia_lemos86)

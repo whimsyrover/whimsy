@@ -11,22 +11,11 @@ Hi, I'm james henry, a seasoned full stack developer with 8 years of hands-on ex
 Contact me <b>email</b>: trustme000777@gmail.com 
 <br/>
 <br/>
-<table><tr><td valign="top" width="50%">
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trustme000777&theme=transparent" />
-</div>
+<table><tr>
+  <td align="center" valign="top" width="50%" >
+    <br/>
+  <h2> My favorite tools and technologies ⚙️</h2>
 
-<div align="center">
-  <img style="display: inline-block;"
-       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trustme000777&theme=transparent" />
-  <img style="display: inline-block;"" 
-       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trustme000777&theme=transparent" />
-</div>
-<div align="center">
-
-## My favorite tools and technologies ⚙️
-
- Tools and technologies that I have worked with and am interested in
 
 <table>
     <tr>
@@ -101,6 +90,19 @@ Contact me <b>email</b>: trustme000777@gmail.com
         </td>
     </tr>
 </table>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trustme000777&theme=transparent" />
+</div>
+
+<div align="center">
+  <img style="display: inline-block;"
+       src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trustme000777&theme=transparent" />
+  <img style="display: inline-block;"" 
+       src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=trustme000777&theme=transparent" />
+</div>
+<div align="center">
+
+
 
 
 <!-- ## Github stats 📊
